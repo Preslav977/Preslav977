@@ -7,7 +7,6 @@ Frontend Developer
 I'm new Frontend developer, currently learning to become one in the future by applying my knowledge by fixing existing problems. Always open to absorb new ideas, knowledge, skills to improve myself.
 
 *   🌍  I'm based in Pleven
-*   ✉️  You can contact me at [p.cvetanow@gmail.com](mailto:p.cvetanow@gmail.com)
 *   🧠  I'm learning Javascript, HTML, CSS
 *   🤝  I'm open to collaborating on Projects### Skills 
 <p align="left">
