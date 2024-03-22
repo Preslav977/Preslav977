@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Hello, I have been learning The Odin Project in order to learn the role of a frontend developer by starting with the foundation skills HTML, CSS, JavaScript, and moving on to frameworks, for example, React for the Frontend and Backend, and also by learning Node and Express frameworks.
+Hello, I have been learning The Odin Project in order to learn the role of a frontend developer by starting with the foundation skills HTML, CSS, JavaScript, and moving on to frameworks, for example, React for the Frontend and Backend, and also by learning Node and Express framework.
 
 *   🌍  I'm based in Trastenik, region Pleven
 *   ✉️  You can contact me at [p.cvetanow@gmail.com](mailto:p.cvetanow@gmail.com)
 *   🧠  I'm learning Node, Express
-*   🤝  I'm open to collaborating on I'm open to collaborating on Open Source Projects
+*   🤝  I'm open to collaborating on Open Source Projects
 
 ### Skills 
 <p align="left">
