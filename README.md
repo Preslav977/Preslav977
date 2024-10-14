@@ -1,20 +1,28 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Preslav Tsvetanov
+Nice to meet you! I'm Preslaw
 =========================================================================================================================================
 
-Frontend Developer
-------------------
+About Me
+=========================================================================================================================================
 
-Hello, I have been learning The Odin Project in order to learn the role of a frontend developer by starting with the foundation skills HTML, CSS, JavaScript, and moving on to frameworks, for example, React for the Frontend and Backend, and also by learning Node and Express framework.
+I have been always interested in computers since I was little. Recently I discovered my programming journey with The Odin Project, which made me interested in programming with a building curve from the simplest projects to the most complex ones.
+Also learning about algorithms.
 
-*   🌍  I'm based in Trastenik, region Pleven
-*   ✉️  You can contact me at [p.cvetanow@gmail.com](mailto:p.cvetanow@gmail.com)
-*   🧠  I'm learning Node, Express
-*   🤝  I'm open to collaborating on Open Source Projects
+This leads to me wanting to learn programming not only as a hobby but to get a job as well. What excites me the most is the planning phase: building, debugging, testing, and finally seeing the product I made. It is not much, but the feeling is incredible.
 
-### Skills 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-                    </p>
+I am trying to help the community with contributing and am also humbled and excited to be able to contribute to such an amazing resource alongside professionals and fellow contributors in the field.
+
+Recent Projects 
+=========================================================================================================================================
+I have been learning almost anything from [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum/), in which the goal is aimed at full stack development, creating a programming mindset, honing and improving program-solving skills by researching, reading the documentation, and building your own things on your own. 
+
+Some interesting projects I have worked on:
+- Where's Waldo Full Stack Application [built with backend functionality](https://github.com/Preslav977/where-is-everyone-backend) and [frontend](https://github.com/Preslav977/where-is-everyone-frontend) by using MongoDB, Express, React, and Node, tested, with React Testing Library, Vitest, responsive.
+- Blog Api Full Stack Application [built with backend functionality](https://github.com/Preslav977/blog-api-backend) and [frontend](https://github.com/Preslav977/blog-api-frontend) contisted with [CMS](https://github.com/Preslav977/blog-api-cms) by using MongoDB, Express, React, and Node, tested, with React Testing Library, Vites, responsive.
+- Shopping Cart [React project](https://github.com/Preslav977/shopping-cart) by using React, Reacting Testing Library, Vitest, and PropTypes
+
+Tools I Have Been Using So Far
+=========================================================================================================================================
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,webpack,jest,vscode,github,mongodb,react,express,vitest)](https://skillicons.dev)
                     
 ### Socials               
 <p align="left"> <a href="https://www.github.com/Preslav977" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/preslav-tsvetanov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
