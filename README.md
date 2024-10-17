@@ -22,7 +22,7 @@ Some interesting projects I have worked on:
 
 Tools I Have Been Using So Far
 =========================================================================================================================================
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,webpack,jest,vscode,github,mongodb,react,express,nodejs,vitest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,webpack,jest,vscode,github,mongodb,react,express,nodejs,vitest,npm,postman)](https://skillicons.dev)
                     
 # Socials               
 <p align="left"> <a href="https://www.github.com/Preslav977" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/preslav-tsvetanov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
