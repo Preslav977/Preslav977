@@ -19,7 +19,7 @@ Some interesting projects I have worked on:
 
 - Wemessage Fullstack Application [built with backend functionality](https://github.com/Preslav977/wemessage-backend) and [frontend](https://github.com/Preslav977/wemessage-frontend) by using PostgreSQL, Prisma, Express, React, and Node, tested, with React Testing Library, Vitest, responsive.
 - Where's Waldo Fullstack Application [built with backend functionality](https://github.com/Preslav977/where-is-everyone-backend) and [frontend](https://github.com/Preslav977/where-is-everyone-frontend) by using MongoDB, Express, React, and Node, tested, with React Testing Library, Vitest, responsive.
-- Blog ApI Fullstack Application [built with backend functionality](https://github.com/Preslav977/blog-api-backend) and [frontend](https://github.com/Preslav977/blog-api-frontend) contisted with [CMS](https://github.com/Preslav977/blog-api-cms) by using MongoDB, Express, React, and Node, tested, with React Testing Library, Vites, responsive.
+- Blog API Fullstack Application [built with backend functionality](https://github.com/Preslav977/blog-api-backend) and [frontend](https://github.com/Preslav977/blog-api-frontend) contisted with [CMS](https://github.com/Preslav977/blog-api-cms) by using MongoDB, Express, React, and Node, tested, with React Testing Library, Vites, responsive.
 
 Tools I Have Been Using So Far
 =========================================================================================================================================
